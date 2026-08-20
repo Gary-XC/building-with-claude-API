@@ -5,3 +5,6 @@
 
 ### Prompt evaluation
 ![alt text](<quizes/Quiz on prompt evaluation.png>)
+
+### Prompt engineering techniques
+![alt text](<quizes/Quiz on prompt engineering techniques.png>)
